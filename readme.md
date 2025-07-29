@@ -1,6 +1,6 @@
-# [Тестовый проект] API Bitrix24
+# [Test project] Bitrix24 API
 
-Для запуска нужно создать файл settings.php с адресом вебхука (это тебование бибилотеки crest.php)
+To run, you need to create a settings.php file with the webhook address (this is a requirement of the crest.php library)
 
 ~~~php
 define('C_REST_WEB_HOOK_URL','WEBHOOK_URL');
